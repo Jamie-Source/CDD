@@ -4,7 +4,6 @@ Title: Lab one: The start of CDD Journey
 
 Author: Jamie Hawthorne
 
-This is Lab one in a series of labs introducing concurrency
 
 Dependencies:
 gcc v 7.5.0 or greater
