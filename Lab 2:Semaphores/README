@@ -14,4 +14,4 @@ Install:
 run "Make ALL" in directory with code
 
 Usage:
-type "./main" to run
+type "./a.out" to run
